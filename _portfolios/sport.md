@@ -1,13 +1,13 @@
 ---
 title: "Спортивная одежда"
-category: "unisex"
+category: "men"
 date: 05.05.2022
 price: "от 55тыс."
 layout: portfolio
-post_image: "assets/images/zhmayeva/zhmayeva_poshiv_kostyumov.jpg"
+post_image: "assets/images/zhmayeva/IMG_9659.jpeg"
 header_image: "assets/images/banner_14.jpg"
-address: jackets_and_suits
-tags: "Спортивная одежда"
+address: men_sportswear
+tags: "индивидуальный пошив мужской спортивной одежды худи свитшоты штаны"
 texts: "Диапазон цен пошива без учёта стоимости ткани:
 </br>
 </br>
