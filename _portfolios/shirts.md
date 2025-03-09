@@ -1,6 +1,6 @@
 ---
 title: "Сорочки"
-category: "пошив мужских рубашек"
+category: "men"
 date: 05.05.2022
 price: "от 24 тыс."
 layout: portfolio
