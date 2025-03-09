@@ -2,8 +2,8 @@
 layout: post
 title: "Жакет оверсайз"
 date: 2023-01-23 20:37:13 +0600
-tags: жакеты оверсайз пиджаки
-categories: [Пиждаки и жакеты]
+tags: пошив жакеты оверсайз пиджаки
+categories: [Пошив пиджаков и жакетов]
 author: "Ателье Жмаева"
 post_image: assets/images/blog/IMG_2547.jpeg
 ---
