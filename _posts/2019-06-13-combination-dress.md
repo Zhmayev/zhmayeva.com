@@ -3,7 +3,7 @@ layout: post
 title: "Платье комбинация"
 date: 2019-06-13 12:37:13 +0600
 tags: платья пошив ателье свадебные 
-categories: [Платья]
+categories: [Пошив платьев]
 author: "Ателье Жмаева"
 post_image: assets/images/blog/IMG_9603.jpeg
 ---
