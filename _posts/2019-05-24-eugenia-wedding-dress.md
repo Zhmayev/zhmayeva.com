@@ -2,8 +2,8 @@
 layout: post
 title: "Свадебное платье"
 date: 2019-05-24 12:01:01 +0600
-tags: свадебное платье приталенное
-categories: [Платья]
+tags: пошив свадебное платье приталенное
+categories: [Пошив платьев]
 author: "Ателье Жмаева"
 post_image: assets/images/blog/IMG_9604.jpeg
 ---
