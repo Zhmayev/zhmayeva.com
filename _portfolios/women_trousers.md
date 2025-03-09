@@ -4,7 +4,7 @@ category: "women"
 date: 06.06.2022
 price: "от 28 тыс."
 layout: portfolio
-post_image: "assets/images/zhmayeva/IMG_9661.jpeg"
+post_image: "assets/images/zhmayeva/zhmayeva_poshiv_bryuk.jpg"
 header_image: "assets/images/banner_11.jpg"
 address: women_trousers
 tags: "пошив женских брюк штанов"
