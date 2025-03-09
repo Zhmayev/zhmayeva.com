@@ -2,7 +2,7 @@
 layout: post
 title: "Шёлковые брюки с драпировкой"
 date: 2025-03-07 09:37:13 +0600
-tags: пошив брюки шёлк
+tags: пошив брюки шёлк топ
 categories: [Пошив брюк, Пошив топа]
 author: "Ателье Жмаева"
 post_image: assets/images/blog/IMG_9636.jpeg
