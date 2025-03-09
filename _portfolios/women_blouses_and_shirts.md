@@ -2,12 +2,12 @@
 title: "Блузы и рубашки"
 category: "women"
 date: 02.02.2022
-price: "от 26тыс."
+price: "от 26 тыс."
 layout: portfolio
-post_image: "assets/images/zhmayeva/zhmayeva_poshiv_platev.jpg"
+post_image: "assets/images/zhmayeva/IMG_9662.jpeg"
 header_image: "assets/images/banner_12.jpg"
-address: dresses_and_sundresses
-tags: "Блузы и рубашки"
+address: women_blouses_and_shirts
+tags: "пошив блузы рубашки сорочки"
 texts: "Диапазон цен пошива без учёта стоимости ткани:
 </br>
 </br>
