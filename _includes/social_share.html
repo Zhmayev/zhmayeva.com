@@ -4,11 +4,11 @@
     <h9><strong>Поделиться:</strong></h9>
   </div>
   <a
-    href="https://vk.com/share/url?url={{ site.url }}{{ site.baseurl }}{{ page.url }}"
-    onclick="window.open(this.href, 'pop-up', 'left=20,top=20,width=500,height=500,toolbar=1,resizable=0'); return false;"
-    title="Share on VK"
+    href="https://api.whatsapp.com/send?text={{ site.url }}{{page.post_image }}&description="
+    onclick="window.open(this.href, 'pop-up', 'left=20,top=20,width=900,height=500,toolbar=1,resizable=0'); return false;"
+    title="Share on WhatsApp"
   >
-    <i class="lni lni-vk"></i>
+    <i class="lni lni-whatsapp"></i>
   </a>
   <a
     href="https://t.me/share/url?url={{ site.url }}{{ site.baseurl }}{{ page.url }}"
@@ -18,10 +18,10 @@
     <i class="lni lni-telegram"></i>
   </a>
   <a
-    href="https://api.whatsapp.com/send?text={{ site.url }}{{page.post_image }}&description="
-    onclick="window.open(this.href, 'pop-up', 'left=20,top=20,width=900,height=500,toolbar=1,resizable=0'); return false;"
-    title="Share on WhatsApp"
+    href="http://www.pinterest.com/pin/create/button/url={{ site.url }}{{ site.baseurl }}{{ page.url }}"
+    onclick="window.open(this.href, 'pop-up', 'left=20,top=20,width=500,height=500,toolbar=1,resizable=0'); return false;"
+    title="Share on Pinterest"
   >
-    <i class="lni lni-whatsapp"></i>
+    <i class="lni lni-pinterest"></i>
   </a>
 </div>
