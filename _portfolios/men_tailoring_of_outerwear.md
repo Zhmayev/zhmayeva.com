@@ -6,7 +6,7 @@ price: "от 45тыс."
 layout: portfolio
 post_image: "assets/images/zhmayeva/IMG_9658.jpeg"
 header_image: "assets/images/banner_12.jpg"
-address: tailoring_of_outerwear
+address: men_tailoring_of_outerwear
 tags: "Пошив мушского пальто тренча бомбера"
 texts: "Диапазон цен пошива без учёта стоимости ткани:
 </br>
