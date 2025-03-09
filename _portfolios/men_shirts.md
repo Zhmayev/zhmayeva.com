@@ -7,7 +7,7 @@ layout: portfolio
 post_image: "assets/images/zhmayeva/IMG_9656.jpeg"
 header_image: "assets/images/banner_14.jpg"
 address: men_shirts
-tags: "пошив мужских рубашек сорочек"
+tags: "пошив мужской рубашки сорочки"
 texts: "Диапазон цен пошива без учёта стоимости ткани:
 </br>
 </br>
