@@ -3,7 +3,7 @@ layout: post
 title: "Восстановление разрывов на куртке C.P. Company"
 date: 2023-10-30 17:37:13 +0600
 tags: C.P.Company ремонты пуховики
-categories: [Ремонты]
+categories: [Ремонт одежды]
 author: "Ателье Жмаева"
 post_image: assets/images/blog/IMG_9634.jpeg
 ---
