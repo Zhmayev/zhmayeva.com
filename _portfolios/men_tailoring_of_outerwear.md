@@ -1,13 +1,13 @@
 ---
-title: "Верхняя одежда"
-category: "unisex"
+title: "Мужская верхняя одежда"
+category: "men"
 date: 04.04.2022
 price: "от 45тыс."
 layout: portfolio
-post_image: "assets/images/zhmayeva/zhmayeva_poshiv_verhnej_odezhdi.jpg"
+post_image: "assets/images/zhmayeva/IMG_9658.jpeg"
 header_image: "assets/images/banner_12.jpg"
 address: tailoring_of_outerwear
-tags: "Пошив верхней одежды"
+tags: "Пошив мушского пальто тренча бомбера"
 texts: "Диапазон цен пошива без учёта стоимости ткани:
 </br>
 </br>
