@@ -5,7 +5,7 @@ date: 2023-01-23 20:37:13 +0600
 tags: жакеты оверсайз пиджаки
 categories: [Пиждаки и жакеты]
 author: "Ателье Жмаева"
-post_image: assets/images/blog/01.jpg
+post_image: assets/images/blog/IMG_2547.jpeg
 ---
 
 Можно смело сказать, что жакеты oversize твёрдо заняли место в базовом гардеробе.
