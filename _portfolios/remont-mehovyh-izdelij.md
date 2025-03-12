@@ -2,9 +2,9 @@
 title: "Ремонт меховых изделий"
 category: "repair"
 date: 08.08.2022
-price: "от 600"
+price: "от 2 тыс."
 layout: portfolio
-post_image: "assets/images/zhmayeva/zhmayeva_remont.jpg"
+post_image: "assets/images/zhmayeva/remont-mehovyh-izdelij.jpg"
 header_image: "assets/images/banner_13.jpg"
 address: remont-mehovyh-izdelij
 tags: "Ремонт меховых изделий шуб москва"
