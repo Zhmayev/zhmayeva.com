@@ -21,6 +21,7 @@ environment: "development"
 markdown: kramdown
 theme: minima
 plugins:
+  - jekyll-sitemap
   - jekyll-feed
   - jekyll-paginate-v2
   - jekyll-archives
