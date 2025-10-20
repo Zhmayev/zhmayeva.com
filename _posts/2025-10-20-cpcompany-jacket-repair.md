@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Восстановление куртки C.P. Company"
-date: 2023-10-20 16:37:13 +0600
+date: 2025-10-20 16:37:13 +0600
 tags: C.P.Company ремонты пуховики
 categories: [Ремонт одежды]
 author: "Ателье Жмаева"
