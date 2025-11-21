@@ -6,7 +6,7 @@ price: " "
 layout: portfolio
 post_image: "assets/images/zhmayeva/zhmayeva_remont.jpg"
 header_image: "assets/images/banner_13.jpg"
-address: remont-verhnej-odezhdy
+address: remont_verhnej_odezhdy
 tags: "Ремонт верхней одежды"
 texts: "Диапазон цен ремонта без учёта стоимости фурнитуры:
 </br>
