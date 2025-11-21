@@ -6,7 +6,7 @@ price: "от 55тыс."
 layout: portfolio
 post_image: "assets/images/zhmayeva/IMG_9660.jpeg"
 header_image: "assets/images/banner_14.jpg"
-address: men_suits
+address: poshiv_muzhskogo_kostyuma
 tags: "пошив мужского костюма смокинга"
 texts: "Диапазон цен пошива без учёта стоимости ткани:
 </br>
