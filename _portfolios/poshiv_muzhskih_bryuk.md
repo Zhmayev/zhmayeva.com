@@ -6,7 +6,7 @@ price: "от 32 тыс."
 layout: portfolio
 post_image: "assets/images/zhmayeva/IMG_9661.jpeg"
 header_image: "assets/images/banner_11.jpg"
-address: men_trousers
+address: poshiv_muzhskih_bryuk
 tags: "пошив мужских брюк штанов"
 texts: "Диапазон цен пошива без учёта стоимости ткани:
 </br>
