@@ -1,25 +1,28 @@
 ---
-title: "Ремонт кожаных изделий"
-category: "repair"
-date: 08.08.2022
-price: "от 600"
+title: "Женские брюки"
+category: "women"
+date: 06.06.2022
+price: "от 28 тыс."
 layout: portfolio
-post_image: "assets/images/zhmayeva/zhmayeva_remont.jpg"
-header_image: "assets/images/banner_13.jpg"
-address: remont_kozhanyh_izdelij
-tags: "Ремонт кожаных изделий"
-texts: "Диапазон цен ремонта без учёта стоимости фурнитуры:
+post_image: "assets/images/zhmayeva/zhmayeva_poshiv_bryuk.jpg"
+header_image: "assets/images/banner_11.jpg"
+address: poshiv_zhenskih_bryuk
+tags: "пошив женских брюк штанов"
+texts: "Диапазон цен пошива без учёта стоимости ткани:
 </br>
 </br>
-Брюки / Джинсы / Шорты
+Брюки классические от 27 тыс.
+</br>
+Брюки спортивные от 12 тыс.
+</br>
+Шорты классические от 20 тыс.
+</br>
+Шорты спортивные от 10 тыс.
 </br>
 </br>
-Изменение длины:
+Стоимость пошива кожа/экокожа +30%
 </br>
-Классические – 1,5 тыс.
 </br>
-С сохранением низа – 1,5 тыс.
-</br>
-
-"
+Для конкретного расчёта стоимости пошива изделия,
+присылайте нам фото"
 ---
