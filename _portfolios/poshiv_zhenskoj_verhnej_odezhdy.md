@@ -2,7 +2,7 @@
 title: "Женская верхняя одежда"
 category: "women"
 date: 04.04.2022
-price: "от 60 тыс."
+price: " "
 layout: portfolio
 post_image: "assets/images/zhmayeva/zhmayeva_poshiv_verhnej_odezhdi.jpg"
 header_image: "assets/images/banner_12.jpg"
