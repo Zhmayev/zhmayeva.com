@@ -6,7 +6,7 @@ price: "от 22тыс."
 layout: portfolio
 post_image: "assets/images/zhmayeva/zhmayeva_poshiv_yubok.jpg"
 header_image: "assets/images/banner_14.jpg"
-address: skirts
+address: poshiv_bluzok
 tags: "пошив юбки шиди карандаш на запахе трапеции"
 texts: "Диапазон цен пошива без учёта стоимости ткани:
 </br>
