@@ -2,7 +2,7 @@
 title: "Мужская верхняя одежда"
 category: "men"
 date: 04.04.2022
-price: "от 45тыс."
+price: " "
 layout: portfolio
 post_image: "assets/images/zhmayeva/IMG_9658.jpeg"
 header_image: "assets/images/banner_12.jpg"
