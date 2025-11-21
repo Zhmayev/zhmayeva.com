@@ -2,7 +2,7 @@
 title: "Ремонт текстильной одежды"
 category: "repair"
 date: 08.08.2022
-price: "от 800"
+price: " "
 layout: portfolio
 post_image: "assets/images/zhmayeva/remont-tekstilnoj-odezhdy.jpg"
 header_image: "assets/images/banner_13.jpg"
