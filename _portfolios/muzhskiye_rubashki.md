@@ -6,7 +6,7 @@ price: "от 24 тыс."
 layout: portfolio
 post_image: "assets/images/zhmayeva/IMG_9656.jpeg"
 header_image: "assets/images/banner_14.jpg"
-address: men_shirts
+address: muzhskiye_rubashki
 tags: "пошив мужской рубашки сорочки"
 texts: "Диапазон цен пошива без учёта стоимости ткани:
 </br>
