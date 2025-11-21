@@ -2,7 +2,7 @@
 title: "Мужские брюки"
 category: "men"
 date: 06.06.2022
-price: "от 32 тыс."
+price: " "
 layout: portfolio
 post_image: "assets/images/zhmayeva/IMG_9661.jpeg"
 header_image: "assets/images/banner_11.jpg"
