@@ -6,7 +6,7 @@ price: "от 55 тыс."
 layout: portfolio
 post_image: "assets/images/zhmayeva/zhmayeva_poshiv_kostyumov.jpg"
 header_image: "assets/images/banner_14.jpg"
-address: women_suits_and_jackets
+address: poshiv_zhenskih_koskyumov_i_zhaketov
 tags: "пошив женского костюма жакета"
 texts: "Диапазон цен пошива без учёта стоимости ткани:
 </br>
