@@ -2,7 +2,7 @@
 title: "Глазковая петля на заказ"
 category: "extra"
 date: 09.09.2022
-price: "от 100"
+price: " "
 layout: portfolio
 post_image: "assets/images/zhmayeva/zhmayeva_atelier_le_asole.jpg"
 header_image: "assets/images/banner_14.jpg"
