@@ -2,16 +2,16 @@
 title: "Свадебные платья"
 category: "women"
 date: 01.01.2022
-price: "от 22тыс."
+price: " "
 layout: portfolio
 post_image: "assets/images/zhmayeva/zhmayeva_poshiv_svadebnyh_platyev.jpg"
 header_image: "assets/images/banner_14.jpg"
-address: wedding_dresses
+address: poshiv_svadebnyh_platyev
 tags: "Свадебные платья"
 texts: "Диапазон цен пошива без учёта стоимости ткани:
 </br>
 </br>
-Платье комбинация от 22 тыс.
+Платье комбинация от 28 тыс.
 </br>
 Платье-футляр от 30 тыс.
 </br>
