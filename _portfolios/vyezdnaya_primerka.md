@@ -2,7 +2,7 @@
 title: "Выездная примерка"
 category: "extra"
 date: 07.07.2022
-price: "от 3тыс."
+price: " "
 layout: portfolio
 post_image: "assets/images/zhmayeva/zhmayeva_atelier_vyezdnaya_primerka1.jpg"
 header_image: "assets/images/banner_14.jpg"
