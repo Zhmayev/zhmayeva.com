@@ -6,7 +6,7 @@ price: "от 55тыс."
 layout: portfolio
 post_image: "assets/images/zhmayeva/IMG_9659.jpeg"
 header_image: "assets/images/banner_14.jpg"
-address: muzhskaya_sportivnaya_odezhda
+address: poshiv_muzhskoj_sportivnoj_odezhdy
 tags: "индивидуальный пошив мужской спортивной одежды худи свитшоты штаны"
 texts: "Диапазон цен пошива без учёта стоимости ткани:
 </br>
