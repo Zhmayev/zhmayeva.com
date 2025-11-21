@@ -2,11 +2,11 @@
 title: "Сорочки"
 category: "men"
 date: 05.05.2022
-price: "от 24 тыс."
+price: " "
 layout: portfolio
 post_image: "assets/images/zhmayeva/IMG_9656.jpeg"
 header_image: "assets/images/banner_14.jpg"
-address: poshiv_muzhskoj_rubashki
+address: poshiv_muzhskoj_rubashki_i_sorochki
 tags: "пошив мужской рубашки сорочки"
 texts: "Диапазон цен пошива без учёта стоимости ткани:
 </br>
