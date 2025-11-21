@@ -2,7 +2,7 @@
 title: "Женская спортивная одежда"
 category: "women"
 date: 05.05.2022
-price: "от 14 тыс."
+price: " "
 layout: portfolio
 post_image: "assets/images/zhmayeva/IMG_9663.jpeg"
 header_image: "assets/images/banner_14.jpg"
