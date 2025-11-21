@@ -2,7 +2,7 @@
 title: "Платья и сарафаны"
 category: "women"
 date: 02.02.2022
-price: "от 26тыс."
+price: " "
 layout: portfolio
 post_image: "assets/images/zhmayeva/zhmayeva_poshiv_platev.jpg"
 header_image: "assets/images/banner_12.jpg"
