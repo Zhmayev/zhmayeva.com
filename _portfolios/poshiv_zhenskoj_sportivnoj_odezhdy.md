@@ -6,7 +6,7 @@ price: "от 14 тыс."
 layout: portfolio
 post_image: "assets/images/zhmayeva/IMG_9663.jpeg"
 header_image: "assets/images/banner_14.jpg"
-address: men_sportswear
+address: poshiv_zhenskoj_sportivnoj_odezhdy
 tags: "индивидуальный пошив женской спортивной одежды худи свитшоты штаны"
 texts: "Диапазон цен пошива без учёта стоимости ткани:
 </br>
