@@ -2,7 +2,7 @@
 title: "Юбки"
 category: "women"
 date: 03.03.2022
-price: "от 22тыс."
+price: " "
 layout: portfolio
 post_image: "assets/images/zhmayeva/zhmayeva_poshiv_yubok.jpg"
 header_image: "assets/images/banner_14.jpg"
