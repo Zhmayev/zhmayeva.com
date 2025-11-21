@@ -1,5 +1,5 @@
 ---
-title: "Сорочки"
+title: "Мужские сорочки"
 category: "men"
 date: 05.05.2022
 price: " "
