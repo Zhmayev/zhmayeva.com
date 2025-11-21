@@ -2,11 +2,11 @@
 title: "Женские костюмы и жакеты"
 category: "women"
 date: 05.05.2022
-price: "от 55 тыс."
+price: " "
 layout: portfolio
 post_image: "assets/images/zhmayeva/zhmayeva_poshiv_kostyumov.jpg"
 header_image: "assets/images/banner_14.jpg"
-address: poshiv_zhenskih_koskyumov_i_zhaketov
+address: poshiv_zhenskogo_koskyuma_i_zhaketa
 tags: "пошив женского костюма жакета"
 texts: "Диапазон цен пошива без учёта стоимости ткани:
 </br>
