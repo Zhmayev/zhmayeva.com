@@ -6,7 +6,7 @@ price: "от 28 тыс."
 layout: portfolio
 post_image: "assets/images/zhmayeva/zhmayeva_poshiv_bryuk.jpg"
 header_image: "assets/images/banner_11.jpg"
-address: women_trousers
+address: poshiv_zhenskih_bryuk
 tags: "пошив женских брюк штанов"
 texts: "Диапазон цен пошива без учёта стоимости ткани:
 </br>
