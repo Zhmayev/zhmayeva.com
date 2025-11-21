@@ -6,7 +6,7 @@ price: "от 26тыс."
 layout: portfolio
 post_image: "assets/images/zhmayeva/zhmayeva_poshiv_platev.jpg"
 header_image: "assets/images/banner_12.jpg"
-address: platiya-i-sarafany
+address: poshiv_platyev_i_sarafanov
 tags: "ателье пошив платья вечерних"
 texts: "Диапазон цен пошива без учёта стоимости ткани:
 </br>
