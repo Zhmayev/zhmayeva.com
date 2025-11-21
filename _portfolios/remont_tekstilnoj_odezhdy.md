@@ -6,7 +6,7 @@ price: " "
 layout: portfolio
 post_image: "assets/images/zhmayeva/remont-tekstilnoj-odezhdy.jpg"
 header_image: "assets/images/banner_13.jpg"
-address: remont-tekstilnoj-odezhdy
+address: remont_tekstilnoj_odezhdy
 tags: "Ремонт одежды москва"
 texts: "Диапазон цен ремонта без учёта стоимости фурнитуры:
 <br>
