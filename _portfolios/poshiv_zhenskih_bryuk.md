@@ -2,7 +2,7 @@
 title: "Женские брюки"
 category: "women"
 date: 06.06.2022
-price: "от 28 тыс."
+price: " "
 layout: portfolio
 post_image: "assets/images/zhmayeva/zhmayeva_poshiv_bryuk.jpg"
 header_image: "assets/images/banner_11.jpg"
