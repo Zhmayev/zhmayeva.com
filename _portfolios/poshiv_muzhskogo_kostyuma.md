@@ -2,7 +2,7 @@
 title: "Мужские костюмы"
 category: "men"
 date: 05.05.2022
-price: "от 55тыс."
+price: " "
 layout: portfolio
 post_image: "assets/images/zhmayeva/IMG_9660.jpeg"
 header_image: "assets/images/banner_14.jpg"
