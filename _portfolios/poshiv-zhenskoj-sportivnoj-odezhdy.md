@@ -6,7 +6,7 @@ price: " "
 layout: portfolio
 post_image: "assets/images/zhmayeva/IMG_9663.jpeg"
 header_image: "assets/images/banner_14.jpg"
-address: poshiv_zhenskoj_sportivnoj_odezhdy
+address: poshiv-zhenskoj-sportivnoj-odezhdy
 tags: "индивидуальный пошив женской спортивной одежды худи свитшоты штаны"
 texts: "Диапазон цен пошива без учёта стоимости ткани:
 </br>
