@@ -6,7 +6,7 @@ price: " "
 layout: portfolio
 post_image: "assets/images/zhmayeva/zhmayeva_atelier_vyezdnaya_primerka1.jpg"
 header_image: "assets/images/banner_14.jpg"
-address: vyezdnaya_primerka
+address: vyezdnaya-primerka
 tags: "Выездная примерка"
 texts: "Мы стараемся быть мобильными, так как головокружащий темп 
 мегаполиса не всегда позволяет приехать к нам. Поэтому можем снять 
