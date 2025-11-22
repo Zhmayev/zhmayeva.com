@@ -6,7 +6,7 @@ price: " "
 layout: portfolio
 post_image: "assets/images/zhmayeva/IMG_9659.jpeg"
 header_image: "assets/images/banner_14.jpg"
-address: poshiv_muzhskoj_sportivnoj_odezhdy
+address: poshiv-muzhskoj-sportivnoj-odezhdy
 tags: "индивидуальный пошив мужской спортивной одежды худи свитшоты штаны"
 texts: "Диапазон цен пошива без учёта стоимости ткани:
 </br>
