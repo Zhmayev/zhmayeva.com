@@ -6,7 +6,7 @@ price: " "
 layout: portfolio
 post_image: "assets/images/zhmayeva/IMG_9656.jpeg"
 header_image: "assets/images/banner_14.jpg"
-address: poshiv_muzhskoj_rubashki_i_sorochki
+address: poshiv-muzhskoj-rubashki-i-sorochki
 tags: "пошив мужской рубашки сорочки"
 texts: "Диапазон цен пошива без учёта стоимости ткани:
 </br>
