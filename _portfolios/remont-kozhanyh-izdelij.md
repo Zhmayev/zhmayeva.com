@@ -4,7 +4,7 @@ category: "repair"
 date: 06.06.2022
 price: " "
 layout: portfolio
-post_image: "assets/images/zhmayeva/zhmayeva_poshiv_bryuk.jpg"
+post_image: "assets/images/zhmayeva/remont-kozhanyh-izdelij-atelye-zhmaeva-moskva.jpg"
 header_image: "assets/images/banner_11.jpg"
 address: remont-kozhanyh-izdelij
 tags: "пошив женских брюк штанов"
