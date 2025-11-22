@@ -6,7 +6,7 @@ price: " "
 layout: portfolio
 post_image: "assets/images/zhmayeva/zhmayeva_remont.jpg"
 header_image: "assets/images/banner_13.jpg"
-address: remont_verhnej_odezhdy
+address: remont-verhnej-odezhdy
 tags: "Ремонт верхней одежды"
 texts: "Диапазон цен ремонта без учёта стоимости фурнитуры:
 </br>
@@ -20,6 +20,5 @@ texts: "Диапазон цен ремонта без учёта стоимос�
 </br>
 С сохранением низа – 1,5 тыс.
 </br>
-
 "
 ---
