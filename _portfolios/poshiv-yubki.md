@@ -6,7 +6,7 @@ price: " "
 layout: portfolio
 post_image: "assets/images/zhmayeva/zhmayeva_poshiv_yubok.jpg"
 header_image: "assets/images/banner_14.jpg"
-address: poshiv_yubki
+address: poshiv-yubki
 tags: "пошив юбки шиди карандаш на запахе трапеции"
 texts: "Диапазон цен пошива без учёта стоимости ткани:
 </br>
