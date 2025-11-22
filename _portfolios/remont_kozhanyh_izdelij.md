@@ -1,12 +1,12 @@
 ---
-title: "Женские брюки"
-category: "women"
+title: "Ремонт кожаных изделий"
+category: "repair"
 date: 06.06.2022
-price: "от 28 тыс."
+price: " "
 layout: portfolio
 post_image: "assets/images/zhmayeva/zhmayeva_poshiv_bryuk.jpg"
 header_image: "assets/images/banner_11.jpg"
-address: poshiv_zhenskih_bryuk
+address: premont_kozhanyh_izdelij
 tags: "пошив женских брюк штанов"
 texts: "Диапазон цен пошива без учёта стоимости ткани:
 </br>
