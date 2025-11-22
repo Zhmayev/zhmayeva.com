@@ -6,7 +6,7 @@ price: " "
 layout: portfolio
 post_image: "assets/images/zhmayeva/IMG_9662.jpeg"
 header_image: "assets/images/banner_12.jpg"
-address: _zhenskoj_bluzy_i_rubashki
+address: poshiv-zhenskoj-bluzy-i-rubashki
 tags: "пошив блузы рубашки сорочки"
 texts: "Диапазон цен пошива без учёта стоимости ткани:
 </br>
