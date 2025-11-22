@@ -6,7 +6,7 @@ price: " "
 layout: portfolio
 post_image: "assets/images/zhmayeva/zhmayeva_poshiv_bryuk.jpg"
 header_image: "assets/images/banner_11.jpg"
-address: psh_zh_br
+address: poshiv-zhenskih-bryuk
 tags: "пошив женских брюк штанов"
 texts: "Диапазон цен пошива без учёта стоимости ткани:
 </br>
