@@ -6,7 +6,7 @@ price: " "
 layout: portfolio
 post_image: "assets/images/zhmayeva/zhmayeva_atelier_le_asole.jpg"
 header_image: "assets/images/banner_14.jpg"
-address: probiv_glazkovyh_petel
+address: probiv-glazkovyh-petel
 tags: "Глазковая петля на заказ"
 texts: "Изготовление/пробив глазковых петель с тремя видами закрепок – поперечная, продольная, закругленная.
 Также возможно выполнить прямые сороченые-рубашечные петли всех видов.
