@@ -6,7 +6,7 @@ price: " "
 layout: portfolio
 post_image: "assets/images/zhmayeva/zhmayeva_poshiv_bryuk.jpg"
 header_image: "assets/images/banner_11.jpg"
-address: premont_kozhanyh_izdelij
+address: remont_kozhanyh_izdelij
 tags: "пошив женских брюк штанов"
 texts: "Диапазон цен пошива без учёта стоимости ткани:
 </br>
