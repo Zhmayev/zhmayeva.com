@@ -6,7 +6,7 @@ price: " "
 layout: portfolio
 post_image: "assets/images/zhmayeva/zhmayeva_poshiv_svadebnyh_platyev.jpg"
 header_image: "assets/images/banner_14.jpg"
-address: poshiv_svadebnyh_platyev
+address: poshiv-svadebnyh-platyev
 tags: "Свадебные платья"
 texts: "Диапазон цен пошива без учёта стоимости ткани:
 </br>
