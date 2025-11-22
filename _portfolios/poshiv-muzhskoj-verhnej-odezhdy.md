@@ -6,7 +6,7 @@ price: " "
 layout: portfolio
 post_image: "assets/images/zhmayeva/IMG_9658.jpeg"
 header_image: "assets/images/banner_12.jpg"
-address: poshiv_muzhskoj_verhnej_odezhdy
+address: poshiv-muzhskoj-verhnej-odezhdy
 tags: "Пошив мушского пальто тренча бомбера"
 texts: "Диапазон цен пошива без учёта стоимости ткани:
 </br>
