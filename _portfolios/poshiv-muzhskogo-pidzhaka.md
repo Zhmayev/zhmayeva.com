@@ -6,7 +6,7 @@ price: " "
 layout: portfolio
 post_image: "assets/images/zhmayeva/IMG_9647.jpeg"
 header_image: "assets/images/banner_14.jpg"
-address: poshiv_muzhskogo_pidzhaka
+address: poshiv-muzhskogo-pidzhaka
 tags: "пошив мужского пиджака"
 texts: "Диапазон цен пошива без учёта стоимости ткани:
 </br>
