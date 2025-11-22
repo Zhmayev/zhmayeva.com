@@ -6,7 +6,7 @@ price: " "
 layout: portfolio
 post_image: "assets/images/zhmayeva/zhmayeva_poshiv_verhnej_odezhdi.jpg"
 header_image: "assets/images/banner_12.jpg"
-address: poshiv_zhenskoj_verhnej_odezhdy
+address: poshiv-zhenskoj-verhnej-odezhdy
 tags: "Пошив женского пальто тренча бомбера"
 texts: "Диапазон цен пошива без учёта стоимости ткани:
 </br>
