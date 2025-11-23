@@ -1,12 +1,12 @@
 ---
 title: "Мужские сорочки"
 category: "men"
-date: 05.05.2022
+date: 12.04.2017
 price: " "
 layout: portfolio
 post_image: "assets/images/zhmayeva/IMG_9656.jpeg"
 header_image: "assets/images/banner_14.jpg"
-address: poshiv-muzhskoj-rubashki-i-sorochki
+address: poshiv-sorochki-i-rubashki
 tags: "пошив мужской рубашки сорочки"
 texts: "Диапазон цен пошива без учёта стоимости ткани:
 </br>
