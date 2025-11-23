@@ -1,7 +1,7 @@
 ---
 title: "Выездная примерка"
 category: "extra"
-date: 07.07.2022
+date: 05.10.2017
 price: " "
 layout: portfolio
 post_image: "assets/images/zhmayeva/zhmayeva_atelier_vyezdnaya_primerka.jpg"
