@@ -1,5 +1,5 @@
 ---
-title: "Мужские пиджаки"
+title: "Мужской пиджак"
 category: "men"
 date: 14.04.2017
 price: " "
