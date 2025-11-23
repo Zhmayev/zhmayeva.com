@@ -4,7 +4,7 @@ category: "extra"
 date: 04.10.2017
 price: " "
 layout: portfolio
-post_image: "assets/images/zhmayeva/zhmayeva_atelier_le_asole.jpg"
+post_image: "assets/images/zhmayeva/probiv-glazkovyh-i-prymyh-petel-atelye-zhmayeva-moskva.jpg"
 header_image: "assets/images/banner_14.jpg"
 address: probiv-glazkovyh-i-pryamuh-petel
 tags: "Пробив глазковых прямых петель Москва"
