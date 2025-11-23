@@ -4,10 +4,10 @@ category: "repair"
 date: 08.08.2022
 price: " "
 layout: portfolio
-post_image: "assets/images/zhmayeva/zhmayeva_remont.jpg"
+post_image: "assets/images/zhmayeva/remont-trikotazhnyh-izdelij-atelye-zhmayeva-moskva.jpg"
 header_image: "assets/images/banner_13.jpg"
 address: remont-trikotazhnoj-odezhdy
-tags: "Ремонт трикотажа восстановление полотна"
+tags: "Ремонт восстановление трикотажных изделий"
 texts: "Диапазон цен ремонта без учёта стоимости фурнитуры:
 </br>
 </br>
