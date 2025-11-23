@@ -1,7 +1,7 @@
 ---
 title: "Женские костюмы и жакеты"
 category: "women"
-date: 05.05.2022
+date: 09.04.2017
 price: " "
 layout: portfolio
 post_image: "assets/images/zhmayeva/zhmayeva_poshiv_kostyumov.jpg"
