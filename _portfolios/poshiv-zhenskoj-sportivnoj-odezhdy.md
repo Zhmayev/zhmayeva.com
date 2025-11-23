@@ -4,7 +4,7 @@ category: "women"
 date: 11.04.2017
 price: " "
 layout: portfolio
-post_image: "assets/images/zhmayeva/IMG_9663.jpeg"
+post_image: "assets/images/zhmayeva/poshiv_zhenskoj_sportivnoj_odezhdy_atelier_zhmayeva_moskva.jpeg"
 header_image: "assets/images/banner_14.jpg"
 address: poshiv-zhenskoj-sportivnoj-odezhdy
 tags: "индивидуальный пошив женской спортивной одежды худи свитшоты штаны"
