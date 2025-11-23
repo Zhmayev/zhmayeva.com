@@ -1,7 +1,7 @@
 ---
 title: "Мужская спортивная одежда"
 category: "men"
-date: 05.05.2022
+date: 17.04.2017
 price: " "
 layout: portfolio
 post_image: "assets/images/zhmayeva/IMG_9659.jpeg"
