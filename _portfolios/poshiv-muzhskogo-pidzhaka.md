@@ -1,7 +1,7 @@
 ---
 title: "Мужские пиджаки"
 category: "men"
-date: 05.05.2022
+date: 14.04.2017
 price: " "
 layout: portfolio
 post_image: "assets/images/zhmayeva/IMG_9647.jpeg"
