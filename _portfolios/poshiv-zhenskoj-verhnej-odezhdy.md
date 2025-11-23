@@ -1,7 +1,7 @@
 ---
 title: "Женская верхняя одежда"
 category: "women"
-date: 09.04.2017
+date: 10.04.2017
 price: " "
 layout: portfolio
 post_image: "assets/images/zhmayeva/zhmayeva_poshiv_verhnej_odezhdi.jpg"
