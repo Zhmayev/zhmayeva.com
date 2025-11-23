@@ -1,7 +1,7 @@
 ---
 title: "Женская спортивная одежда"
 category: "women"
-date: 05.05.2022
+date: 11.04.2017
 price: " "
 layout: portfolio
 post_image: "assets/images/zhmayeva/IMG_9663.jpeg"
