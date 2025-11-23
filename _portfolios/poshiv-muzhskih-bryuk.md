@@ -1,7 +1,7 @@
 ---
 title: "Мужские брюки"
 category: "men"
-date: 06.06.2022
+date: 15.04.2017
 price: " "
 layout: portfolio
 post_image: "assets/images/zhmayeva/IMG_9661.jpeg"
