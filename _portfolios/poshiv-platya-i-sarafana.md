@@ -1,13 +1,13 @@
 ---
 title: "Платья и сарафаны"
 category: "women"
-date: 02.02.2022
+date: 06.04.2017
 price: " "
 layout: portfolio
 post_image: "assets/images/zhmayeva/zhmayeva_poshiv_platev.jpg"
 header_image: "assets/images/banner_12.jpg"
-address: poshivplatyev-i-sarafanov
-tags: "ателье пошив платья вечерних"
+address: poshivplatya-i-sarafana
+tags: "пошив вечернего платья"
 texts: "Диапазон цен пошива без учёта стоимости ткани:
 </br>
 </br>
