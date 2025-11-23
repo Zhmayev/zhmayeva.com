@@ -1,13 +1,13 @@
 ---
-title: "Глазковая петля на заказ"
+title: "Пробив глазковых и прямых петель"
 category: "extra"
 date: 09.09.2022
 price: " "
 layout: portfolio
 post_image: "assets/images/zhmayeva/zhmayeva_atelier_le_asole.jpg"
 header_image: "assets/images/banner_14.jpg"
-address: probiv-glazkovyh-petel
-tags: "Глазковая петля на заказ"
+address: probiv-glazkovyh-i-pryamuh-petel
+tags: "Пробив глазковых прямых петель Москва"
 texts: "Изготовление/пробив глазковых петель с тремя видами закрепок – поперечная, продольная, закругленная.
 Также возможно выполнить прямые сороченые-рубашечные петли всех видов.
 </br>
