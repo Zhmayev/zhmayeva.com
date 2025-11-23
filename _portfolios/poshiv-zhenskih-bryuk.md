@@ -4,7 +4,7 @@ category: "women"
 date: 05.04.2017
 price: " "
 layout: portfolio
-post_image: "assets/images/zhmayeva/zhmayeva_poshiv_bryuk.jpg"
+post_image: "assets/images/zhmayeva/poshiv_zhenskih_bryuk_atelye_zhmayeva.jpg"
 header_image: "assets/images/banner_11.jpg"
 address: poshiv-zhenskih-bryuk
 tags: "пошив женских брюк штанов"
