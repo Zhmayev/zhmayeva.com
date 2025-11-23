@@ -1,7 +1,7 @@
 ---
 title: "Пробив глазковых и прямых петель"
 category: "extra"
-date: 09.09.2022
+date: 04.10.2017
 price: " "
 layout: portfolio
 post_image: "assets/images/zhmayeva/zhmayeva_atelier_le_asole.jpg"
