@@ -2,7 +2,7 @@
 title: "test"
 category: "repair"
 date: 08.08.2022
-price: "от 2 тыс."
+price: " "
 layout: portfolio
 post_image: "assets/images/zhmayeva/remont-mehovyh-izdelij.jpg"
 header_image: "assets/images/banner_13.jpg"
