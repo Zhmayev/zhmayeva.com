@@ -4,7 +4,7 @@ category: "extra"
 date: 07.07.2022
 price: " "
 layout: portfolio
-post_image: "assets/images/zhmayeva/zhmayeva_atelier_vyezdnaya_primerka1.jpg"
+post_image: "assets/images/zhmayeva/zhmayeva_atelier_vyezdnaya_primerka.jpg"
 header_image: "assets/images/banner_14.jpg"
 address: vyezdnaya-primerka
 tags: "Выездная примерка"
