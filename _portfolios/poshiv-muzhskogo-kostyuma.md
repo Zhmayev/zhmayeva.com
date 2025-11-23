@@ -1,5 +1,5 @@
 ---
-title: "Мужские костюмы"
+title: "Мужской костюм"
 category: "men"
 date: 13.04.2017
 price: " "
