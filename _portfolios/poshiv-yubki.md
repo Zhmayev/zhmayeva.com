@@ -1,7 +1,7 @@
 ---
 title: "Юбки"
 category: "women"
-date: 03.03.2022
+date: 08.04.2017
 price: " "
 layout: portfolio
 post_image: "assets/images/zhmayeva/zhmayeva_poshiv_yubok.jpg"
