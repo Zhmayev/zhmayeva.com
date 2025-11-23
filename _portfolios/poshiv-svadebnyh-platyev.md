@@ -1,7 +1,7 @@
 ---
 title: "Свадебные платья"
 category: "women"
-date: 01.01.2022
+date: 04.04.2017
 price: " "
 layout: portfolio
 post_image: "assets/images/zhmayeva/zhmayeva_poshiv_svadebnyh_platyev.jpg"
