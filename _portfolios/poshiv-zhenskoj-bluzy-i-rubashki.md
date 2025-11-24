@@ -1,7 +1,7 @@
 ---
 title: "Блузы и рубашки"
 category: "women"
-date: 07.04.2017
+date: 08.04.2017
 price: " "
 layout: portfolio
 post_image: "assets/images/zhmayeva/IMG_9662.jpeg"
