@@ -1,7 +1,7 @@
 ---
 title: "Платья и сарафаны"
 category: "women"
-date: 06.04.2017
+date: 05.04.2017
 price: " "
 layout: portfolio
 post_image: "assets/images/zhmayeva/zhmayeva_poshiv_platev.jpg"
