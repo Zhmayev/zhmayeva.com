@@ -11,7 +11,7 @@ post_image: assets/images/blog/IMG_9634.jpeg
 
 Восстановление повреждений на пуховиках C.P. Company – уже частое явление в нашем ателье. Такого рода ремонт одежды, мы выполняем с ювелирной точностью.
 
-text_image: assets/images/zhmayeva/pros/me.jpg
+![Image alt](https://github.com/Zhmayev/zhmayeva.com/blob/master/assets/images/zhmayeva/IMG_9661.jpeg)
 
 Мы аккуратно подбираем необходимые материалы и нитки из нашей коллекции Gütermann Mara, под оригинал, чтобы результат был незаметным даже при тщательном осмотре. Ваш пуховик будет как новый, без компромиссов в качестве!
 
