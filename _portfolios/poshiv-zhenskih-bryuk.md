@@ -1,7 +1,7 @@
 ---
 title: "Женские брюки"
 category: "women"
-date: 05.04.2017
+date: 06.04.2017
 price: " "
 layout: portfolio
 post_image: "assets/images/zhmayeva/poshiv_zhenskih_bryuk_atelye_zhmayeva.jpg"
