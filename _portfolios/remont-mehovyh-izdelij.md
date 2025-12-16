@@ -1,9 +1,9 @@
 ---
 title: "Ремонт меховых изделий"
 category: "repair"
-date: 08.08.2022
+date: 08.08.2013
 price: " "
-layout: portfolio
+layout: nashi-uslugi
 post_image: "assets/images/zhmayeva/remont-mehovyh-izdelij.jpg"
 header_image: "assets/images/banner_13.jpg"
 address: remont-mehovyh-izdelij
