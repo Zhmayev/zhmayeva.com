@@ -1,7 +1,7 @@
 ---
 title: "Пробив глазковых и прямых петель"
 category: "extra"
-date: 04.10.2013
+date: 05.10.2013
 price: " "
 layout: nashi-uslugi
 post_image: "assets/images/zhmayeva/probiv-glazkovyh-i-prymyh-petel-atelye-zhmayeva-moskva.jpg"
