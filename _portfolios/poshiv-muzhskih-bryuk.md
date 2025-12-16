@@ -1,7 +1,7 @@
 ---
 title: "Мужские брюки"
 category: "men"
-date: 15.04.2015
+date: 15.04.2013
 price: " "
 layout: nashi-uslugi
 post_image: "assets/images/zhmayeva/IMG_9661.jpeg"
