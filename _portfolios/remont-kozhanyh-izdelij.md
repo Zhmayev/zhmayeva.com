@@ -1,9 +1,9 @@
 ---
 title: "Ремонт кожаных изделий"
 category: "repair"
-date: 06.10.2017
+date: 06.10.2013
 price: " "
-layout: portfolio
+layout: nashi-uslugi
 post_image: "assets/images/zhmayeva/remont-kozhanyh-izdelij-atelye-zhmayeva-moskva.jpg"
 header_image: "assets/images/banner_11.jpg"
 address: remont-kozhanyh-izdelij
