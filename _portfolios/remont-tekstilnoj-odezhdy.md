@@ -1,7 +1,7 @@
 ---
 title: "Ремонт текстильной одежды"
 category: "repair"
-date: 08.08.2022
+date: 08.08.2013
 price: " "
 layout: nashi-uslugi
 post_image: "assets/images/zhmayeva/remont-tekstilnoj-odezhdy.jpg"
