@@ -1,13 +1,13 @@
 ---
 title: "Ремонт кожаных изделий"
 category: "repair"
-date: 06.10.2013
+date: 09.08.2013
 price: " "
 layout: nashi-uslugi
 post_image: "assets/images/zhmayeva/remont-kozhanyh-izdelij-atelye-zhmayeva-moskva.jpg"
 header_image: "assets/images/banner_11.jpg"
 address: remont-kozhanyh-izdelij
-tags: "пошив женских брюк штанов"
+tags: "реставрация восстановление экокожи кожаной одежды"
 texts: "Диапазон цен пошива без учёта стоимости ткани:
 </br>
 </br>
