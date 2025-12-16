@@ -1,9 +1,9 @@
 ---
 title: "Свадебные платья"
 category: "women"
-date: 04.04.2017
+date: 04.04.2013
 price: " "
-layout: portfolio
+layout: nashi-uslugi
 post_image: "assets/images/zhmayeva/zhmayeva_poshiv_svadebnogo_platya.jpg"
 header_image: "assets/images/banner_14.jpg"
 address: poshiv_svadebnogo_platya
