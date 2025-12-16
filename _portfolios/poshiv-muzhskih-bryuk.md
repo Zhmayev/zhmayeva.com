@@ -1,9 +1,9 @@
 ---
 title: "Мужские брюки"
 category: "men"
-date: 15.04.2017
+date: 15.04.2015
 price: " "
-layout: portfolio
+layout: nashi-uslugi
 post_image: "assets/images/zhmayeva/IMG_9661.jpeg"
 header_image: "assets/images/banner_11.jpg"
 address: poshiv-muzhskih-bryuk
