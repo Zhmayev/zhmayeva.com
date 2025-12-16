@@ -1,9 +1,9 @@
 ---
 title: "Мужская верхняя одежда"
 category: "men"
-date: 14.04.2017
+date: 14.04.2013
 price: " "
-layout: portfolio
+layout: nashi-uslugi
 post_image: "assets/images/zhmayeva/IMG_9658.jpeg"
 header_image: "assets/images/banner_12.jpg"
 address: poshiv-muzhskoj-verhnej-odezhdy
