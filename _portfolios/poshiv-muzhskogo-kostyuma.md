@@ -1,9 +1,9 @@
 ---
 title: "Мужской костюм"
 category: "men"
-date: 13.04.2017
+date: 13.04.2013
 price: " "
-layout: portfolio
+layout: nashi-uslugi
 post_image: "assets/images/zhmayeva/IMG_9660.jpeg"
 header_image: "assets/images/banner_14.jpg"
 address: poshiv-muzhskogo-kostyuma
