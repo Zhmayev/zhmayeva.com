@@ -1,9 +1,9 @@
 ---
 title: "Платья и сарафаны"
 category: "women"
-date: 05.04.2017
+date: 05.04.2013
 price: " "
-layout: portfolio
+layout: nashi-uslugi
 post_image: "assets/images/zhmayeva/zhmayeva_poshiv_platev.jpg"
 header_image: "assets/images/banner_12.jpg"
 address: poshivplatya-i-sarafana
