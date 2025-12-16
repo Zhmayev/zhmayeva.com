@@ -1,9 +1,9 @@
 ---
 title: "Блузы и рубашки"
 category: "women"
-date: 08.04.2017
+date: 08.04.2013
 price: " "
-layout: portfolio
+layout: nashi-uslugi
 post_image: "assets/images/zhmayeva/IMG_9662.jpeg"
 header_image: "assets/images/banner_12.jpg"
 address: poshiv-zhenskoj-bluzy-i-rubashki
