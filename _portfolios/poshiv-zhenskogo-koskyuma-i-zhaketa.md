@@ -1,9 +1,9 @@
 ---
 title: "Женские костюмы и жакеты"
 category: "women"
-date: 09.04.2017
+date: 09.04.2013
 price: " "
-layout: portfolio
+layout: nashi-uslugi
 post_image: "assets/images/zhmayeva/zhmayeva_poshiv_kostyumov.jpg"
 header_image: "assets/images/banner_14.jpg"
 address: poshiv-zhenskogo-koskyuma-i-zhaketa
