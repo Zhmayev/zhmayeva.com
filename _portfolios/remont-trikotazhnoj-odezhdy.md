@@ -1,7 +1,7 @@
 ---
 title: "Ремонт трикотажной одежды"
 category: "repair"
-date: 08.08.2022
+date: 08.08.2013
 price: " "
 layout: nashi-uslugi
 post_image: "assets/images/zhmayeva/remont-trikotazhnyh-izdelij-atelye-zhmayeva-moskva.jpg"
