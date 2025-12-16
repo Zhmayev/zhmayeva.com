@@ -1,9 +1,9 @@
 ---
 title: "Мужские сорочки"
 category: "men"
-date: 12.04.2017
+date: 12.04.2013
 price: " "
-layout: portfolio
+layout: nashi-uslugi
 post_image: "assets/images/zhmayeva/IMG_9656.jpeg"
 header_image: "assets/images/banner_14.jpg"
 address: poshiv-sorochki-i-rubashki
