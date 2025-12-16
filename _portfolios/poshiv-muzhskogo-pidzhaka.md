@@ -1,9 +1,9 @@
 ---
 title: "Мужской пиджак"
 category: "men"
-date: 14.04.2017
+date: 14.04.2013
 price: " "
-layout: portfolio
+layout: nashi-uslugi
 post_image: "assets/images/zhmayeva/IMG_9647.jpeg"
 header_image: "assets/images/banner_14.jpg"
 address: poshiv-muzhskogo-pidzhaka
