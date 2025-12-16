@@ -1,7 +1,7 @@
 ---
 title: "Мужская спортивная одежда"
 category: "men"
-date: 17.04.2017
+date: 17.04.2013
 price: " "
 layout: nashi-uslugi
 post_image: "assets/images/zhmayeva/IMG_9659.jpeg"
