@@ -1,9 +1,9 @@
 ---
 title: "Выездная примерка"
 category: "extra"
-date: 05.10.2017
+date: 05.10.2013
 price: " "
-layout: portfolio
+layout: nashi-uslugi
 post_image: "assets/images/zhmayeva/zhmayeva_atelier_vyezdnaya_primerka.jpg"
 header_image: "assets/images/banner_14.jpg"
 address: vyezdnaya-primerka
