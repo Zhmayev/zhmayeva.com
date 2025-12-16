@@ -1,9 +1,9 @@
 ---
 title: "Женская спортивная одежда"
 category: "women"
-date: 11.04.2017
+date: 11.04.2013
 price: " "
-layout: portfolio
+layout: nashi-uslugi
 post_image: "assets/images/zhmayeva/poshiv_zhenskoj_sportivnoj_odezhdy_atelier_zhmayeva_moskva.jpeg"
 header_image: "assets/images/banner_14.jpg"
 address: poshiv-zhenskoj-sportivnoj-odezhdy
