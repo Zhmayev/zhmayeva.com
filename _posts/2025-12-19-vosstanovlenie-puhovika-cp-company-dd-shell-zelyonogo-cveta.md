@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Ремонт пуховика C.P. Company D.D. Shell"
-date: 2023-10-30 17:37:13 +0600
+date: 2025-12-19 17:37:13 +0600
 tags: "восстановление ремонт пуховик C.P.Company"
 categories: [Ремонт одежды]
 author: "Ателье Жмаева"
