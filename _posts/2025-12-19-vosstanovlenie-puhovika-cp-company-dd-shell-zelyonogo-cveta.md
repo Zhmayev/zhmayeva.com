@@ -10,7 +10,7 @@ post_image: assets/images/blog/vosstanovlenie-puhovika-cp-company-dd-shell-zelyo
 
 Вот с таким разрывом на спине обратился к нам молодой человек.
 
-![Photo](https://github.com/Zhmayev/zhmayeva.com/blob/master/assets/images/blog/vosstanovlenie-puhovika-cp-company-dd-shell-zelyonogo-cveta-2025-12-19-3.JPG)
+<img width="853" alt="Фото разрыва" src="https://github.com/Zhmayev/zhmayeva.com/blob/master/assets/images/blog/vosstanovlenie-puhovika-cp-company-dd-shell-zelyonogo-cveta-2025-12-19-3.JPG">
 
 Поскольку сроки были сжатыми, мы сразу приступили к выполнению срочного заказа, благо уже есть многолетний опыт с куртками C.P. Company D.D. Shell.
 
