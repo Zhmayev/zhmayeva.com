@@ -42,6 +42,7 @@ jobs:
           #build_dir: # optional
           # Do not overwrite whatever was already published on the target branch
           keep_history: false
+          build_dir: _site
           # Commands to run prior to build and deploy. Useful for ensuring build dependencies are up to date or installing  new dependencies. For example, use `apk --update add  imagemagick` to install ImageMagick.
           #pre_build_commands: # optional
           # When set override the default bundler version provided.
@@ -51,7 +52,7 @@ jobs:
         with:
           apiToken: ${{ secrets.CLOUDFLARE_API_TOKEN }}
           accountId: ${{ secrets.CLOUDFLARE_ACCOUNT_ID }}
-          command: pages deploy jekyll_build --project-name=atelie-zhmayeva --commit-dirty=true --skip-caching
+          command: pages deploy _site --project-name=atelie-zhmayeva --commit-dirty=true --skip-caching
 
       - name: Purge Cloudflare HTML cache
         run: |
