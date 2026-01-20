@@ -51,7 +51,7 @@ jobs:
         with:
           apiToken: ${{ secrets.CLOUDFLARE_API_TOKEN }}
           accountId: ${{ secrets.CLOUDFLARE_ACCOUNT_ID }}
-          command: pages deploy _site --project-name=atelie-zhmayeva --commit-dirty=true --skip-caching
+          command: pages deploy jekyll_build --project-name=atelie-zhmayeva --commit-dirty=true --skip-caching
 
       - name: Purge Cloudflare HTML cache
         run: |
