@@ -1,9 +1,10 @@
 #Please use the main menu items under the "text"
 - text: Главная
-  url: /
+  url: /glavnaya.html
 - text: Блог
-  url: /blog
+  url: /blog.html
 - text: Наши услуги
-  url: /nashi-uslugi
+  url: /nashi-uslugi.html
 - text: Контакты
-  url: /kontakty
+  url: /kontakty.html
+
