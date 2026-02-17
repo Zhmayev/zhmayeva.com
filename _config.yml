@@ -10,7 +10,7 @@ url: "https://zhmayeva.com" # the base hostname & protocol for your site, e.g. h
 
 twitter_username: jekyllrb
 github_username: jekyll
-permalink: "/:title"
+permalink: "/:basename:output_ext"
 
 # General Settings
 banner_image: "assets/images/blog/IMG_9638.jpeg"
@@ -33,7 +33,7 @@ cover_image: "assets/img/bg/page-title.jpg"
 collections:
   posts:
     output: true
-    permalink: /blog/:title
+    permalink: /blog/:categories/:title:output_ext
   features:
     output: true
   services:
@@ -61,7 +61,7 @@ pagination:
 
   # The permalink structure for the paginated pages (this can be any level deep)
   #permalink: '/page/:num/' # Pages are index.html inside this folder (default)
-  permalink: "/pages/:num/" # Pages are simple html file
+  permalink: "/pages/:num.html" # Pages are simple html file
   #permalink: '/page/:num' # Pages are html files, linked jekyll extensionless permalink style.
 
   # Optional the title format for the paginated pages (supports :title for original page title, :num for pagination page number, :max for total number of pages)
@@ -108,7 +108,7 @@ jekyll-archives:
   enabled: all
   layout: category
   permalinks:
-    category: "/category/:name/"
+    category: "blog/:name.html"
 
 feed:
   collections:
