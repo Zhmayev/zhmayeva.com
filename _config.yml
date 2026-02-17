@@ -17,6 +17,9 @@ banner_image: "assets/images/blog/IMG_9638.jpeg"
 
 environment: "development"
 
+include:
+  - q35rhw2e1bpg7a7g3566jd61w9eq37cj.txt
+
 # Build settings
 markdown: kramdown
 theme: minima
