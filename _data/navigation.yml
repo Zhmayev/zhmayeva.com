@@ -1,6 +1,6 @@
 #Please use the main menu items under the "text"
 - text: Главная
-  url: /glavnaya.html
+  url: /index.html
 - text: Блог
   url: /blog.html
 - text: Наши услуги
